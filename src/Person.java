@@ -1,7 +1,10 @@
 import java.sql.Date;
 import java.util.Scanner;
 
-
+/**
+ * Clase que representa a una persona
+ * @author Jafet David Ibarguen Lozano
+ */
 public class Person{
 
     public String name;
